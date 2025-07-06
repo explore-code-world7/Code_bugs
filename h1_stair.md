@@ -7,7 +7,7 @@ python legged_gym/legged_gym/scripts/train.py --task=h1_45_stair --headless --ma
 ```
 
 * 开始时内存占用
-
+![图片](https://github.com/user-attachments/assets/26cf842e-cf15-4805-88ff-3a01ea2c408f)
 
 
 * 随着训练过程显存消耗上升
