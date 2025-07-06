@@ -6,7 +6,8 @@ python legged_gym/legged_gym/scripts/train.py --task=h1_45_stair --headless --ma
   --load_run=Jul06_11-15-26_ --checkpoint -1
 ```
 
-* 开始时内存占用
+* 开始时显存占用
+
 ![图片](https://github.com/user-attachments/assets/26cf842e-cf15-4805-88ff-3a01ea2c408f)
 
 
