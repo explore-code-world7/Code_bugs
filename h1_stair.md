@@ -1,5 +1,13 @@
+# hf_plane稳定训练
+* 指令
+```bash
+python  legged_gym/legged_gym/scripts/train.py  --task=h1_45_hf  --headless  --max_iterations 2000 --sim_dev  cuda:2 --rl_device  cuda:3
+```
+* hf plane的配置代码
 
+https://github.com/explore-code-world7/versa_legged_gym/blob/main/legged_gym/legged_gym/utils/terrain/plane_terrain.py
 
+# stair训练问题
 1. 执行如下命令训练h1_45_stair
 ```bash
 python legged_gym/legged_gym/scripts/train.py --task=h1_45_stair --headless --max_iterations 1000 --sim_dev cuda:0 --rl_device cuda:1 \\
