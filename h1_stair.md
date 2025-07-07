@@ -1,3 +1,10 @@
+# 修改urdf避免碰撞
+
+![image](https://github.com/user-attachments/assets/9679dee0-ddd2-405c-a46d-0a64c96f3ab4)
+
+* 显存还是上升
+
+
 # hf_plane稳定训练
 * 指令
 ```bash
