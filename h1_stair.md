@@ -1,8 +1,16 @@
+
+# 训练卡显存上升
+* cuda:1& cuda:3从4000MB上升到下面这样
+![image](https://github.com/user-attachments/assets/a55fcdab-e1f4-462d-87c1-56948563c01e)
+
+
 # 修改urdf避免碰撞
 
 ![image](https://github.com/user-attachments/assets/9679dee0-ddd2-405c-a46d-0a64c96f3ab4)
 
 * 显存还是上升
+* 调整地形后该问题解决
+
 
 
 # hf_plane稳定训练
